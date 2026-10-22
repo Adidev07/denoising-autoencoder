@@ -1,0 +1,14 @@
+{
+  "project": "<script>bad()</script>",
+  "source": "<img src=x onerror=bad()>"
+}
+test_gradient (test_app.DomainTests.test_gradient) ... ok
+test_shapes (test_app.DomainTests.test_shapes) ... ok
+test_training_improves (test_app.DomainTests.test_training_improves) ... ok
+test_html_escapes_untrusted_content (test_reporting.ReportingTests.test_html_escapes_untrusted_content) ... ok
+test_zero_positive_metrics (test_reporting.ReportingTests.test_zero_positive_metrics) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.208s
+
+OK

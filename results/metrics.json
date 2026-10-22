@@ -1,0 +1,8 @@
+{
+  "project": "Denoising Autoencoder",
+  "noisy_mse": 0.12138432080543668,
+  "denoised_mse": 0.029083519011437645,
+  "initial_training_loss": 0.3781584568044373,
+  "final_training_loss": 0.028254579514999406,
+  "bottleneck": 5
+}
